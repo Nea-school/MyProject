@@ -822,3 +822,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.08-07.44.19:070][690]LogSavePackage: Moving 'C:/Users/s192294/Documents/Unreal Projects/MyProject/Saved/APEX_WORLDA194FEA849C92F11E4E2409AD9490475.tmp' to 'C:/Users/s192294/Documents/Unreal Projects/MyProject/Content/APEX/APEX_WORLD.umap'
 [2021.10.08-07.44.19:097][690]AssetCheck: New page: アセット保存:APEX_WORLD
 [2021.10.08-07.44.19:098][690]LogContentValidation: Display: World /Game/APEX/APEX_WORLD.APEX_WORLD を検証しています
+[2021.10.08-07.46.17:713][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/APEX/APEX_WORLD" FILE="C:/Users/s192294/Documents/Unreal Projects/MyProject/Content/APEX/APEX_WORLD.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.08-07.46.17:728][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.10.08-07.46.17:734][520]LogSavePackage: Moving 'C:/Users/s192294/Documents/Unreal Projects/MyProject/Saved/APEX_WORLD3051A6A14B3734BD5B1169AA5F761A1B.tmp' to 'C:/Users/s192294/Documents/Unreal Projects/MyProject/Content/APEX/APEX_WORLD.umap'
+[2021.10.08-07.46.17:761][520]AssetCheck: New page: アセット保存:APEX_WORLD
+[2021.10.08-07.46.17:761][520]LogContentValidation: Display: World /Game/APEX/APEX_WORLD.APEX_WORLD を検証しています
